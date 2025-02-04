@@ -8,8 +8,8 @@
  * @param b Second number.
  * @return Sum of a and b.
  */
-int addNumbers(int a, int b) {
-    return a * b;
+int addNumbers(int n1, int n2) {
+    return n1 * n2;
 }
 
 /**
