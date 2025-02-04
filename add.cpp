@@ -1,13 +1,4 @@
-/**
- * @file main.cpp
- * @brief A simple C++ program to add two numbers.
- *
- * This program takes two numbers as input from the user,
- * adds them, and displays the result.
- *
- * @author Your Name
- * @date 2025-02-02
- */
+
 
 #include <iostream>
 
@@ -18,7 +9,7 @@
  * @return Sum of a and b.
  */
 int addNumbers(int a, int b) {
-    return a + b;
+    return a * b;
 }
 
 /**
